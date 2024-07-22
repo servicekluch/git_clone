@@ -26,9 +26,6 @@ _Описание проекта NeuroStartUp_:
 > * Высокая скорость поиска
 > * Низкая цена
 
-_Логотип_:
-
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 ### Задача
 
